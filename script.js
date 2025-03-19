@@ -1,5 +1,6 @@
 function indexOfIgnoreCase(s1, s2) {
   // write your code here
+	
 }
 
 // Please do not change the code below
